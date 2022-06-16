@@ -47,5 +47,14 @@ We will be evaluating
 
 #### Test Cases
 
- 1.  
+ 1.   OrderPage-pizza Selection Dropdown With 6 Options
+ 2.   OrderPage-topping1 Select Dropdown With 12 Options
+ 3.   OrderPage-topping2 Select Drowdown With 12 Options
+ 4.   OrderPage-topping1 And Topping2 Dropdown HasSame Options
+ 5.   OrderPage-quantity Input Is 0 By Default
+ 6.   OrderPage-cost Change WhenSelect Pizza And Quantity
+ 7.   OrderPage-paymen Information Selection Is Unchecked By Default 
+ 8.   OrderPage-order Successfully Placed With All Valid Data Input
+ 9.   OrderPage-order Successfully Placed With Valid Name And Valid Phone
+ 10.  OrderPage-
 
